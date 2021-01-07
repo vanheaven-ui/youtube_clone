@@ -1,7 +1,7 @@
-# Youtube Clone
+# Youtube Video Page Clone
 
 
-Clone of [youtube.com](https://www.youtube.com) for our first Microverse project included in the HTML & CSS course. 
+A clone of [the Youtube video page](https://www.youtube.com) for our first Microverse project included in the HTML & CSS course. 
 
 ![screenshot](./images/screenshot.png)
 
@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 ### Prerequisites
-there are no prerequisits to run the project. but if you want to work on it make sure you have the following installed in your global evnviroment
+there are no prerequisites to run the project. but if you want to work on it make sure you have the following installed in your global evnviroment
   - [npm](https://www.npmjs.com/products/teams?utm_source=adwords&utm_medium=ppc&utm_campaign=npmTeams2019Q2&utm_content=site&gclid=Cj0KCQjwyPbzBRDsARIsAFh15JaJyPdeb-Q11Rq-LMaulSWINd6PYdJQ2OkZyE75reyBcpnnmwPrgRoaAv_5EALw_wcB)
   - [npx](https://www.npmjs.com/package/npx)
 ### Install
